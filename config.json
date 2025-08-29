@@ -1,0 +1,56 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Sneha"
+  },
+  "text": {
+    "more": "",
+    "intro": "",
+    "title": "CIC  Collaboration Network"
+  },
+  "legend": {
+    "edgeLabel": "Weight",
+    "colorLabel": "Modularity Class",
+    "nodeLabel": "Label"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "line",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 0,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 10,
+      "labelSize": "proportional",
+      "labelSizeRatio": 2,
+      "labelSizeThreshold": 30
+    },
+    "graphProperties": {
+      "maxEdgeSize": 5,
+      "minEdgeSize": 1,
+      "minNodeSize": 5,
+      "maxNodeSize": 30
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}

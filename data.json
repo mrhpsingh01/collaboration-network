@@ -1,0 +1,784 @@
+{
+  "nodes": [
+    {
+      "label": "Donna Blackmond",
+      "x": 71.16197967529297,
+      "y": 36.862144470214844,
+      "id": "9",
+      "attributes": {
+        "Eccentricity": "0.0",
+        "Closeness Centrality": "0.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.0"
+      },
+      "color": "#800080",
+      "size": 5.440000057220459
+    },
+    {
+      "label": "Song Lin",
+      "x": 262.6451416015625,
+      "y": 238.35614013671875,
+      "id": "25",
+      "attributes": {
+        "Eccentricity": "0.0",
+        "Closeness Centrality": "0.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.0"
+      },
+      "color": "#800080",
+      "size": 5.440000057220459
+    },
+    {
+      "label": "Mingji Dai",
+      "x": 37.18699645996094,
+      "y": 6.304164409637451,
+      "id": "12",
+      "attributes": {
+        "Eccentricity": "0.0",
+        "Closeness Centrality": "0.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.0"
+      },
+      "color": "#800080",
+      "size": 5.440000057220459
+    },
+    {
+      "label": "Brian Stoltz",
+      "x": -75.50469970703125,
+      "y": 168.4842987060547,
+      "id": "6",
+      "attributes": {
+        "Eccentricity": "0.0",
+        "Closeness Centrality": "0.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.0"
+      },
+      "color": "#800080",
+      "size": 5.440000057220459
+    },
+    {
+      "label": "Ming-Yu Ngai",
+      "x": -52.58070755004883,
+      "y": 215.5420379638672,
+      "id": "10",
+      "attributes": {
+        "Eccentricity": "0.0",
+        "Closeness Centrality": "0.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.0"
+      },
+      "color": "#800080",
+      "size": 5.440000057220459
+    },
+    {
+      "label": "David Nagib",
+      "x": -12.672401428222656,
+      "y": 20.489633560180664,
+      "id": "26",
+      "attributes": {
+        "Eccentricity": "2.0",
+        "Closeness Centrality": "0.5217391304347826",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.5416666666666666"
+      },
+      "color": "#800080",
+      "size": 5.440000057220459
+    },
+    {
+      "label": "Osvaldo Gutierrez",
+      "x": 250.84152221679688,
+      "y": 159.9692840576172,
+      "id": "17",
+      "attributes": {
+        "Eccentricity": "2.0",
+        "Closeness Centrality": "0.6666666666666666",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.75"
+      },
+      "color": "#800080",
+      "size": 5.440000057220459
+    },
+    {
+      "label": "Melissa Ramirez",
+      "x": 224.77748107910156,
+      "y": 287.8125915527344,
+      "id": "23",
+      "attributes": {
+        "Eccentricity": "1.0",
+        "Closeness Centrality": "1.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "1.0"
+      },
+      "color": "#800080",
+      "size": 5.880000114440918
+    },
+    {
+      "label": "Huw Davies",
+      "x": -45.93415832519531,
+      "y": 46.86759948730469,
+      "id": "3",
+      "attributes": {
+        "Eccentricity": "2.0",
+        "Closeness Centrality": "0.55",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.5909090909090909"
+      },
+      "color": "#800080",
+      "size": 6.319999694824219
+    },
+    {
+      "label": "Peng Liu",
+      "x": 7.769351959228516,
+      "y": 120.2752914428711,
+      "id": "5",
+      "attributes": {
+        "Eccentricity": "1.0",
+        "Closeness Centrality": "1.0",
+        "Betweenness Centrality": "30.0",
+        "Harmonic Closeness Centrality": "1.0"
+      },
+      "color": "#800080",
+      "size": 11.15999984741211
+    },
+    {
+      "label": "Yang Yang",
+      "x": -79.734375,
+      "y": 79.69095611572266,
+      "id": "7",
+      "attributes": {
+        "Eccentricity": "0.0",
+        "Closeness Centrality": "0.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.0"
+      },
+      "color": "#800080",
+      "size": 5.440000057220459
+    },
+    {
+      "label": "Abigail Doyle",
+      "x": 284.5631103515625,
+      "y": 191.52174377441406,
+      "id": "18",
+      "attributes": {
+        "Eccentricity": "1.0",
+        "Closeness Centrality": "1.0",
+        "Betweenness Centrality": "1.0",
+        "Harmonic Closeness Centrality": "1.0"
+      },
+      "color": "#800080",
+      "size": 5.880000114440918
+    },
+    {
+      "label": "Kyle Francis Biegasiewicz",
+      "x": 141.9141845703125,
+      "y": -28.375106811523438,
+      "id": "20",
+      "attributes": {
+        "Eccentricity": "0.0",
+        "Closeness Centrality": "0.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.0"
+      },
+      "color": "#800080",
+      "size": 5.440000057220459
+    },
+    {
+      "label": "Jamal Musaev",
+      "x": -68.29777526855469,
+      "y": 125.07816314697266,
+      "id": "4",
+      "attributes": {
+        "Eccentricity": "2.0",
+        "Closeness Centrality": "0.5238095238095238",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.5454545454545454"
+      },
+      "color": "#800080",
+      "size": 6.319999694824219
+    },
+    {
+      "label": "Hans Renata",
+      "x": 106.70575714111328,
+      "y": 61.3687744140625,
+      "id": "11",
+      "attributes": {
+        "Eccentricity": "0.0",
+        "Closeness Centrality": "0.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.0"
+      },
+      "color": "#800080",
+      "size": 5.880000114440918
+    },
+    {
+      "label": "Uttam Tambar",
+      "x": 172.06861877441406,
+      "y": 301.517333984375,
+      "id": "22",
+      "attributes": {
+        "Eccentricity": "1.0",
+        "Closeness Centrality": "1.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "1.0"
+      },
+      "color": "#800080",
+      "size": 5.880000114440918
+    },
+    {
+      "label": "Liela Romero",
+      "x": 242.92706298828125,
+      "y": 26.598453521728516,
+      "id": "21",
+      "attributes": {
+        "Eccentricity": "0.0",
+        "Closeness Centrality": "0.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.0"
+      },
+      "color": "#800080",
+      "size": 5.440000057220459
+    },
+    {
+      "label": "Tianning Diao",
+      "x": 53.972312927246094,
+      "y": 222.4263458251953,
+      "id": "14",
+      "attributes": {
+        "Eccentricity": "0.0",
+        "Closeness Centrality": "0.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.0"
+      },
+      "color": "#800080",
+      "size": 5.440000057220459
+    },
+    {
+      "label": "Jessica Hoover",
+      "x": 21.08423614501953,
+      "y": 201.60104370117188,
+      "id": "13",
+      "attributes": {
+        "Eccentricity": "0.0",
+        "Closeness Centrality": "0.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.0"
+      },
+      "color": "#800080",
+      "size": 5.440000057220459
+    },
+    {
+      "label": "Ampofo Darko",
+      "x": 281.8457946777344,
+      "y": 111.58743286132812,
+      "id": "24",
+      "attributes": {
+        "Eccentricity": "0.0",
+        "Closeness Centrality": "0.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.0"
+      },
+      "color": "#800080",
+      "size": 5.0
+    },
+    {
+      "label": "Laura Ackerman-Biegasiewicz",
+      "x": 24.390174865722656,
+      "y": 335.7560119628906,
+      "id": "1",
+      "attributes": {
+        "Eccentricity": "1.0",
+        "Closeness Centrality": "1.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "1.0"
+      },
+      "color": "#800080",
+      "size": 5.880000114440918
+    },
+    {
+      "label": "Sidney Wilkerson-Hill",
+      "x": -5.224006652832031,
+      "y": 248.1832733154297,
+      "id": "8",
+      "attributes": {
+        "Eccentricity": "0.0",
+        "Closeness Centrality": "0.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.0"
+      },
+      "color": "#800080",
+      "size": 5.440000057220459
+    },
+    {
+      "label": "Simon Blakey",
+      "x": 224.56991577148438,
+      "y": 81.4378662109375,
+      "id": "16",
+      "attributes": {
+        "Eccentricity": "1.0",
+        "Closeness Centrality": "1.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "1.0"
+      },
+      "color": "#800080",
+      "size": 5.440000057220459
+    },
+    {
+      "label": "Colleen Scott",
+      "x": 193.27114868164062,
+      "y": -3.614185333251953,
+      "id": "19",
+      "attributes": {
+        "Eccentricity": "1.0",
+        "Closeness Centrality": "1.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "1.0"
+      },
+      "color": "#800080",
+      "size": 5.880000114440918
+    },
+    {
+      "label": "Gabe Gomes",
+      "x": 93.00787353515625,
+      "y": 321.7947998046875,
+      "id": "2",
+      "attributes": {
+        "Eccentricity": "1.0",
+        "Closeness Centrality": "1.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "1.0"
+      },
+      "color": "#800080",
+      "size": 5.880000114440918
+    },
+    {
+      "label": "Shannon Stahl",
+      "x": 132.7398681640625,
+      "y": 333.8993225097656,
+      "id": "15",
+      "attributes": {
+        "Eccentricity": "0.0",
+        "Closeness Centrality": "0.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "0.0"
+      },
+      "color": "#800080",
+      "size": 5.0
+    },
+    {
+      "label": "CIC",
+      "x": 105.82669830322266,
+      "y": 150.8233184814453,
+      "id": "0",
+      "attributes": {
+        "Eccentricity": "1.0",
+        "Closeness Centrality": "1.0",
+        "Betweenness Centrality": "0.0",
+        "Harmonic Closeness Centrality": "1.0"
+      },
+      "color": "#87CEEB",
+      "size": 16.0
+    }
+  ],
+  "edges": [
+    {
+      "source": "0",
+      "target": "3",
+      "id": "52",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "5",
+      "target": "10",
+      "id": "87",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "12",
+      "id": "61",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "16",
+      "target": "11",
+      "id": "92",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "22",
+      "id": "71",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "24",
+      "id": "73",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "5",
+      "target": "8",
+      "id": "85",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "18",
+      "target": "25",
+      "id": "97",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "10",
+      "id": "59",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "17",
+      "target": "18",
+      "id": "93",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "18",
+      "id": "67",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "5",
+      "target": "11",
+      "id": "88",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "22",
+      "target": "23",
+      "id": "96",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "19",
+      "target": "21",
+      "id": "95",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "26",
+      "id": "75",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "16",
+      "id": "65",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "19",
+      "target": "20",
+      "id": "94",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "5",
+      "target": "7",
+      "id": "84",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "23",
+      "target": "22",
+      "id": "99",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "1",
+      "id": "50",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "5",
+      "id": "54",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "2",
+      "id": "51",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "4",
+      "id": "53",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "6",
+      "id": "55",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "15",
+      "id": "64",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "13",
+      "id": "62",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "5",
+      "target": "3",
+      "id": "81",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "4",
+      "target": "5",
+      "id": "80",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "19",
+      "id": "68",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "2",
+      "target": "1",
+      "id": "77",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "5",
+      "target": "9",
+      "id": "86",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "1",
+      "target": "2",
+      "id": "76",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "7",
+      "id": "56",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "26",
+      "target": "5",
+      "id": "98",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "5",
+      "target": "12",
+      "id": "89",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "5",
+      "target": "13",
+      "id": "90",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "3",
+      "target": "4",
+      "id": "79",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "25",
+      "id": "74",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "3",
+      "target": "5",
+      "id": "78",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "9",
+      "id": "58",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "5",
+      "target": "4",
+      "id": "82",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "21",
+      "id": "70",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "5",
+      "target": "6",
+      "id": "83",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "20",
+      "id": "69",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "14",
+      "id": "63",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "23",
+      "id": "72",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "5",
+      "target": "14",
+      "id": "91",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "8",
+      "id": "57",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "17",
+      "id": "66",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    },
+    {
+      "source": "0",
+      "target": "11",
+      "id": "60",
+      "attributes": {},
+      "color": "#E5CCE5",
+      "size": 1.0
+    }
+  ]
+}
