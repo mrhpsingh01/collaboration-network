@@ -12,7 +12,7 @@
         "Harmonic Closeness Centrality": "0.0"
       },
       "color": "#259BAA",
-      "size": 5.440000057220459
+      "size": 20
     },
     {
       "label": "Song Lin",
@@ -26,7 +26,7 @@
         "Harmonic Closeness Centrality": "0.0"
       },
       "color": "#259BAA",
-      "size": 5.440000057220459
+      "size": 20
     },
     {
       "label": "Mingji Dai",
@@ -40,7 +40,7 @@
         "Harmonic Closeness Centrality": "0.0"
       },
       "color": "#259BAA",
-      "size": 5.440000057220459
+      "size": 20
     },
     {
       "label": "Brian Stoltz",
@@ -54,12 +54,12 @@
         "Harmonic Closeness Centrality": "0.0"
       },
       "color": "#259BAA",
-      "size": 5.440000057220459
+      "size": 20
     },
     {
       "label": "Ming-Yu Ngai",
       "x": -52.58070755004883,
-      "y": 215.5420379638672,
+      "y": 215.5440379638672,
       "id": "10",
       "attributes": {
         "Eccentricity": "0.0",
@@ -68,12 +68,12 @@
         "Harmonic Closeness Centrality": "0.0"
       },
       "color": "#259BAA",
-      "size": 5.440000057220459
+      "size": 20
     },
     {
       "label": "David Nagib",
       "x": -12.672401428222656,
-      "y": 20.489633560180664,
+      "y": 40.489633560180664,
       "id": "26",
       "attributes": {
         "Eccentricity": "2.0",
@@ -82,7 +82,7 @@
         "Harmonic Closeness Centrality": "0.5416666666666666"
       },
       "color": "#259BAA",
-      "size": 5.440000057220459
+      "size": 20
     },
     {
       "label": "Osvaldo Gutierrez",
@@ -96,7 +96,7 @@
         "Harmonic Closeness Centrality": "0.75"
       },
       "color": "#259BAA",
-      "size": 5.440000057220459
+      "size": 20
     },
     {
       "label": "Melissa Ramirez",
@@ -110,7 +110,7 @@
         "Harmonic Closeness Centrality": "1.0"
       },
       "color": "#259BAA",
-      "size": 5.880000114440918
+      "size": 20
     },
     {
       "label": "Huw Davies",
@@ -124,12 +124,12 @@
         "Harmonic Closeness Centrality": "0.5909090909090909"
       },
       "color": "#259BAA",
-      "size": 6.319999694824219
+      "size": 20
     },
     {
       "label": "Peng Liu",
       "x": 7.769351959228516,
-      "y": 120.2752914428711,
+      "y": 140.2752914428711,
       "id": "5",
       "attributes": {
         "Eccentricity": "1.0",
@@ -138,7 +138,7 @@
         "Harmonic Closeness Centrality": "1.0"
       },
       "color": "#259BAA",
-      "size": 11.15999984741211
+      "size": 30
     },
     {
       "label": "Yang Yang",
@@ -152,7 +152,7 @@
         "Harmonic Closeness Centrality": "0.0"
       },
       "color": "#259BAA",
-      "size": 5.440000057220459
+      "size": 20
     },
     {
       "label": "Abigail Doyle",
@@ -166,13 +166,13 @@
         "Harmonic Closeness Centrality": "1.0"
       },
       "color": "#259BAA",
-      "size": 5.880000114440918
+      "size": 20
     },
     {
       "label": "Kyle Francis Biegasiewicz",
       "x": 141.9141845703125,
       "y": -28.375106811523438,
-      "id": "20",
+      "id": "40",
       "attributes": {
         "Eccentricity": "0.0",
         "Closeness Centrality": "0.0",
@@ -180,7 +180,7 @@
         "Harmonic Closeness Centrality": "0.0"
       },
       "color": "#259BAA",
-      "size": 5.440000057220459
+      "size": 20
     },
     {
       "label": "Jamal Musaev",
@@ -194,7 +194,7 @@
         "Harmonic Closeness Centrality": "0.5454545454545454"
       },
       "color": "#259BAA",
-      "size": 6.319999694824219
+      "size": 20
     },
     {
       "label": "Hans Renata",
@@ -208,7 +208,7 @@
         "Harmonic Closeness Centrality": "0.0"
       },
       "color": "#259BAA",
-      "size": 5.880000114440918
+      "size": 20
     },
     {
       "label": "Uttam Tambar",
@@ -222,7 +222,7 @@
         "Harmonic Closeness Centrality": "1.0"
       },
       "color": "#259BAA",
-      "size": 5.880000114440918
+      "size": 20
     },
     {
       "label": "Liela Romero",
@@ -236,7 +236,7 @@
         "Harmonic Closeness Centrality": "0.0"
       },
       "color": "#259BAA",
-      "size": 5.440000057220459
+      "size": 20
     },
     {
       "label": "Tianning Diao",
@@ -250,12 +250,12 @@
         "Harmonic Closeness Centrality": "0.0"
       },
       "color": "#259BAA",
-      "size": 5.440000057220459
+      "size": 20
     },
     {
       "label": "Jessica Hoover",
       "x": 21.08423614501953,
-      "y": 201.60104370117188,
+      "y": 401.60104370117188,
       "id": "13",
       "attributes": {
         "Eccentricity": "0.0",
@@ -264,7 +264,7 @@
         "Harmonic Closeness Centrality": "0.0"
       },
       "color": "#259BAA",
-      "size": 5.440000057220459
+      "size": 20
     },
     {
       "label": "Ampofo Darko",
@@ -278,7 +278,7 @@
         "Harmonic Closeness Centrality": "0.0"
       },
       "color": "#259BAA",
-      "size": 5.0
+      "size": 20
     },
     {
       "label": "Laura Ackerman-Biegasiewicz",
@@ -292,11 +292,11 @@
         "Harmonic Closeness Centrality": "1.0"
       },
       "color": "#259BAA",
-      "size": 5.880000114440918
+      "size": 20
     },
     {
       "label": "Sidney Wilkerson-Hill",
-      "x": -5.224006652832031,
+      "x": -5.224006652834031,
       "y": 248.1832733154297,
       "id": "8",
       "attributes": {
@@ -306,7 +306,7 @@
         "Harmonic Closeness Centrality": "0.0"
       },
       "color": "#259BAA",
-      "size": 5.440000057220459
+      "size": 20
     },
     {
       "label": "Simon Blakey",
@@ -320,7 +320,7 @@
         "Harmonic Closeness Centrality": "1.0"
       },
       "color": "#259BAA",
-      "size": 5.440000057220459
+      "size": 20
     },
     {
       "label": "Colleen Scott",
@@ -334,7 +334,7 @@
         "Harmonic Closeness Centrality": "1.0"
       },
       "color": "#259BAA",
-      "size": 5.880000114440918
+      "size": 20
     },
     {
       "label": "Gabe Gomes",
@@ -348,7 +348,7 @@
         "Harmonic Closeness Centrality": "1.0"
       },
       "color": "#259BAA",
-      "size": 5.880000114440918
+      "size": 20
     },
     {
       "label": "Shannon Stahl",
@@ -362,7 +362,7 @@
         "Harmonic Closeness Centrality": "0.0"
       },
       "color": "#259BAA",
-      "size": 5.0
+      "size": 20
     },
     {
       "label": "CIC",
@@ -375,8 +375,8 @@
         "Betweenness Centrality": "0.0",
         "Harmonic Closeness Centrality": "1.0"
       },
-      "color": "#F68120",
-      "size": 16.0
+      "color": "#F68140",
+      "size": 50
     }
   ],
   "edges": [
@@ -510,7 +510,7 @@
     },
     {
       "source": "19",
-      "target": "20",
+      "target": "40",
       "id": "94",
       "attributes": {},
       "color": "#E5CCE5",
@@ -726,7 +726,7 @@
     },
     {
       "source": "0",
-      "target": "20",
+      "target": "40",
       "id": "69",
       "attributes": {},
       "color": "#E5CCE5",
